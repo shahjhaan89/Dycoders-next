@@ -1,0 +1,32 @@
+{
+    "features": [{
+        "icon": "images/email-svgrepo-com.svg",
+        "title": "Email Course Creation",
+        "description": "Create and send email courses to your subscribers with ease."
+    },
+    {
+        "icon": "images/painter-palette-svgrepo-com.svg",
+        "title": "Customizable Templates",
+        "description": "Choose from a variety of customizable templates to create your email courses."
+    },
+    {
+        "icon": "images/clock-circle-svgrepo-com.svg",
+        "title": "Automated Email Series",
+        "description": "Set up automated emails to send to your subscribers at specific intervals."
+    },
+    {
+        "icon": "images/chart-mixed-svgrepo-com.svg",
+        "title": "Analytics and Reporting",
+        "description": "Track the performance of your email courses with detailed analytics and reporting."
+    },{
+        "icon": "images/pages-svgrepo-com.svg",
+        "title": "Landing Pages",
+        "description": "Integrate Coursemail with your favorite tools and services."
+    },{
+        "icon": "images/new-outlined-window-svgrepo-com.svg",
+        "title": "Automatically create new versions",
+        "description": "Set up courses"
+    }]
+    
+
+}
